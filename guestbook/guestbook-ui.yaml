@@ -4,5 +4,5 @@ metadata:
   name: guestbook-ui
   namespace: default
 spec:
-  prefix: /
+  prefix: /guestbook-ui/
   service: guestbook-ui
